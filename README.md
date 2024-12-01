@@ -1,19 +1,17 @@
-
 <div align="center">
 
-<img src="[https://user-images.githubusercontent.com/your-background-image](https://media.licdn.com/dms/image/v2/D4D16AQGhnb1Vl5_81Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730988327885?e=1738800000&v=beta&t=JQDd4zsLmmRiOhAG11BkJm_C85iNtisvKvofnf-MQWY)" alt="Background" style="width:100%; border-radius:10px;">
+<img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner" style="border-radius:10px;">
 
-<h1>👋 Hello, I'm Harshit Kumar Sahu!</h1>
+### 👋 Hello, I'm **Harshit Kumar Sahu**
 
-<img src="[https://user-images.githubusercontent.com/your-profile-image](https://media.licdn.com/dms/image/v2/D4D03AQF6vuqJjpsE8w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1684827505310?e=1738800000&v=beta&t=2N8QAiCMCAwjbu347W0_eGlZGRrSpp89KEiyypyolXA)" alt="Profile Picture" style="width:150px; height:150px; border-radius:50%; border:2px solid #4CAF50;">
+🎓 **Final Year Computer Science and Engineering Student**  
+💻 **Aspiring Web Developer** | 🌟 **Tech Enthusiast**  
 
-🎓 Final Year CSE Student | 💻 Aspiring Web Developer | 🌟 Tech Enthusiast  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/your-github-profile)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/harshitkumarsahu)  
 
 </div>
+
 
 ## 🌐 About Me
 
