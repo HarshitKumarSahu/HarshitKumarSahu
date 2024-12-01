@@ -1,3 +1,28 @@
+    <div align="center">
+        <div style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: #f8f8f8;">
+            <div style="width:20%; overflow: hidden; border-radius:10px;">
+                <img src="./1.jpeg" alt="" style="width:100%; border-radius:50%;">
+            </div>
+            <img src="./linkedin.png" alt="" style="width:80%; border-radius:10px;">
+        </div>
+        <div style="width: 100%; display: flex; align-items: center; justify-content: space-between; background-color: #f8f8f8;">
+            <div style="width: 40%; display: flex; align-items: center; justify-content: center; gap: 20px;">
+                <h1>Harshit Kumar Sahu</h1>
+                <p>(He/Him)</p>
+            </div>
+            <div style="width: 40%; display: flex; align-items: center; justify-content: center; gap: 20px;">
+                <img src="./lcit.jpeg" alt="" style="width: 10%;">
+                <p>LCIT Group of Institutions </p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="[https://user-images.githubusercontent.com/your-background-image](https://media.licdn.com/dms/image/v2/D4D16AQGhnb1Vl5_81Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730988327885?e=1738800000&v=beta&t=JQDd4zsLmmRiOhAG11BkJm_C85iNtisvKvofnf-MQWY)" alt="Background" style="width:100%; border-radius:10px;">
