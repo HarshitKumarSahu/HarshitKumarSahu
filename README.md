@@ -1,7 +1,7 @@
 <div align="center">
    <div style="width: 100%; display: flex; align-items: center; justify-content: center; background-color: #f8f8f8;">
       <div style="width:20%; overflow: hidden; border-radius:10px;">
-         <img src="./1.jpeg" alt="" style="width:100%; border-radius:50%;">
+         <img src="./1.jpeg" alt="" style="width:150px; height:150px; border-radius:50%;">
       </div>
          <img src="./linkedin.png" alt="" style="width:80%; border-radius:10px;">
       </div>
