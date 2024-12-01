@@ -4,7 +4,7 @@
 
 ### 👋 Hello, I'm **Harshit Kumar Sahu**
 
-**MERN | Learning Full Stack Development | MongoDB | Express.js | Node.js | MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML**  
+MERN | Learning Full Stack Development | MongoDB | Express.js | Node.js | MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/harshitkumarsahu)  
@@ -58,19 +58,11 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 4. **[Quote Canvas](#)**  
    A dynamic platform to create, edit, and share quotes.  
-   **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js   
+   **Tech Stack**: HTML, CSS, JavaScript, EJS, Node.js, Express.js   
 
 5. **[Twitter Clone](#)**  
    A Twitter-inspired platform with CRUD operations for tweets.  
-   **Tech Stack**: Node.js, Express.js, MongoDB  
-
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/your-github-profile)  
+   **Tech Stack**: HTML, CSS, JavaScript, EJS, Node.js, Express.js, MongoDB  
 
 ---
 
