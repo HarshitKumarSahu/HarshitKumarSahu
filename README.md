@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile" alt="Banner" style="border-radius:10px;">
+<img src="./linkedin.png" alt="Banner" style="border-radius:10px;">
 
 ### 👋 Hello, I'm **Harshit Kumar Sahu**
 
