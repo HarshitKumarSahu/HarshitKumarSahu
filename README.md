@@ -4,8 +4,7 @@
 
 ### 👋 Hello, I'm **Harshit Kumar Sahu**
 
-🎓 **Final Year Computer Science and Engineering Student**  
-💻 **Aspiring Web Developer** | 🌟 **Tech Enthusiast**  
+**MERN | Learning Full Stack Development | MongoDB | Express.js | Node.js | MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/harshitkumarsahu)  
@@ -19,10 +18,8 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 💡 **Key Interests**:  
 - Web Development (Frontend & Backend)  
-- Progressive Web Apps (PWAs)  
 - Creative UI/UX Design  
 - Interactive 3D Web Graphics (Three.js)  
-- Software + Hardware Integration  
 
 ---
 
@@ -30,7 +27,7 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 - **Programming Languages**: Java, C, C++, Python, JavaScript  
 - **Web Development**: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB  
-- **Libraries & Frameworks**: Locomotive.js, GSAP, Three.js  
+- **Libraries & Frameworks**: Locomotive.js, Lenis, GSAP, Three.js  
 - **Version Control**: Git & GitHub  
 - **Tools & Technologies**: MySQL, APIs, RESTful Services  
 
@@ -45,27 +42,28 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 ---
 
-## 💻 Projects
+## 💻 Projects 
 
-1. **Modzy**  
-   A dynamic shopping website featuring tailored sections, dark/light modes, and seamless UI.  
+1. **[Modzy](#)**  
+   A feature-rich shopping website with dark/light mode and tailored sections.  
    **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, Swiper.js  
 
-2. **Planetarium**  
-   A visually stunning 3D solar system using Three.js and GSAP.  
-   **Tech Stack**: Three.js, GSAP  
+2. **[Planetarium](#)**  
+   A stunning 3D model of the solar system using Three.js and GSAP.  
+   **Tech Stack**: HTML, CSS, JavaScript, Three.js, GSAP  
 
-3. **Quote Canvas**  
-   A creative platform to design, edit, and share quotes with a live preview.  
-   **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js  
+3. **[Miranda](#)**  
+   A dynamic and engaging landing page showcasing interactive elements and smooth animations.  
+   **Tech Stack**: HTML, CSS, JavaScript, Locomotive.js, GSAP  
 
-4. **Currency Converter**  
-   A user-friendly currency converter utilizing APIs for live exchange rates.  
-   **Tech Stack**: HTML, CSS, JavaScript  
+4. **[Quote Canvas](#)**  
+   A dynamic platform to create, edit, and share quotes.  
+   **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js   
 
-5. **Twitter Clone** (Ongoing)  
-   A basic Twitter replica with CRUD operations for tweets.  
-   **Tech Stack**: HTML, CSS, JavaScript, Node.js, Express.js, MongoDB  
+5. **[Twitter Clone](#)**  
+   A Twitter-inspired platform with CRUD operations for tweets.  
+   **Tech Stack**: Node.js, Express.js, MongoDB  
+
 
 ---
 
@@ -76,4 +74,6 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 ---
 
-🌟 **"Code is poetry, and every line builds a better tomorrow."**
+<div align="center">
+🌟 **"Code is poetry, and every line builds a better tomorrow."** 🌟
+</div>
