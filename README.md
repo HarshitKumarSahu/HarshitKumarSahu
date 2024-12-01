@@ -4,7 +4,8 @@
 
 ### 👋 Hello, I'm **Harshit Kumar Sahu**
 
-MERN | Learning Full Stack Development | MongoDB | Express.js | Node.js | MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML 
+MERN | Learning Full Stack Development | MongoDB | Express.js | Node.js | 
+MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/harshitkumarsahu)  
