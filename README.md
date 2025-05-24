@@ -45,10 +45,12 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 1. **[AI.WORK](https://aiwork-8g44.onrender.com/)**  
    A dynamic platform where users can generate or upload images and share them with others, built with innovative AI tools and seamless web tech.
+
    **Tech Stack**: HTML, CSS, JavaScript, EJS, GSAP, MongoDB, Express.js, Node.js.  
 
 3. **[form3js](https://form3js.vercel.app/)**  
    A creative platform using Three.js to craft and share immersive 3D visualizations with captivating water distortion effects on images, blending artistry and interactivity.
+
    **Tech Stack**: HTML, CSS, JavaScript, Three.js, GSAP  
 
 5. **[Miranda](#)**  
