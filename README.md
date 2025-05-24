@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./linkedin.png" alt="Banner" style="border-radius:10px;">
+<img src="./linkedinBG" alt="Banner" style="border-radius:10px;">
 
 ### 👋 Hello, I'm **Harshit Kumar Sahu**
 
