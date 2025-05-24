@@ -2,9 +2,9 @@
 
 <img src="./linkedinBG.jpg" alt="Banner" style="border-radius:10px;">
 
-### 👋 Hello, I'm **Harshit Kumar Sahu**
+### 👋 Hello, I'm **Harshit Kumar Sahu a Creative and Functional Web Developer**
 
-MERN | Full Stack Dev | MongoDB | Express.js | Node.js | MySQL | EJS | Three.js | Lenis | GSAP | JavaScript | CSS | HTML 
+MERN | Three.js & Shaders | WebGL | Lenis & Locomotive.js | GSAP
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Kumar%20Sahu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshitkumarsahu-14082004aug/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Harshit--Kumar--Sahu-black?style=flat&logo=github)](https://github.com/harshitkumarsahu)  
@@ -25,10 +25,9 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 ## 🚀 Technical Skills
 
-- **Programming Languages**: Java, C, C++, Python, JavaScript  
-- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB  
+- **Programming Languages**: Java, C, C++, Python, JavaScript, WebGl  
+- **Web Development**: HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, React.js  
 - **Libraries & Frameworks**: Locomotive.js, Lenis, GSAP, Three.js  
-- **Version Control**: Git & GitHub  
 - **Tools & Technologies**: MySQL, APIs, RESTful Services  
 
 ---
@@ -38,7 +37,7 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 - 🥇 **1st Place**: Refresher Course on Web Development, LCIT Group of Institutions  
 - 🥈 **2nd Place**: Technova Paper Presentation on Frontend Web Development  
 - ⭐ **Mentorship**: Guided budding developers at DIV Foundation and CHOCS  
-- 📜 **Certified**: Java & DSA by Apna College  
+- 📜 **Certified**: Java & DSA and Full Stack Web Dev by Apna College 
 
 ---
 
@@ -67,5 +66,5 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 ---
 
 <div align="center">
-🌟 **"Code is poetry, and every line builds a better tomorrow."** 🌟
+🌟 Code is poetry, and every line builds a better tomorrow. 🌟
 </div>
