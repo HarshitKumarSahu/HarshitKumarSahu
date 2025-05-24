@@ -44,11 +44,11 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 ## 💻 Projects 
 
 1. **[AI.WORK](https://aiwork-8g44.onrender.com/)**  
-   A feature-rich shopping website with dark/light mode and tailored sections.  
-   **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, Swiper.js  
+   A dynamic platform where users can generate or upload images and share them with others, built with innovative AI tools and seamless web tech.
+   **Tech Stack**: HTML, CSS, JavaScript, EJS, GSAP, MongoDB, Express.js, Node.js.  
 
-2. **[Planetarium](#)**  
-   A stunning 3D model of the solar system using Three.js and GSAP.  
+2. **[form3js](https://form3js.vercel.app/)**  
+   A creative platform using Three.js to craft and share immersive 3D visualizations with captivating water distortion effects on images, blending artistry and interactivity.
    **Tech Stack**: HTML, CSS, JavaScript, Three.js, GSAP  
 
 3. **[Miranda](#)**  
