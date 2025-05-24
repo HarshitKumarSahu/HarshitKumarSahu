@@ -43,7 +43,7 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 ## 💻 Projects 
 
-1. **[Modzy](#)**  
+1. **[AI.WORK](https://aiwork-8g44.onrender.com/)**  
    A feature-rich shopping website with dark/light mode and tailored sections.  
    **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, Swiper.js  
 
