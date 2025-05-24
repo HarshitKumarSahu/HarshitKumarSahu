@@ -45,25 +45,16 @@ Hi! I'm Harshit Kumar Sahu, a passionate computer science student with a love fo
 
 1. **[AI.WORK](https://aiwork-8g44.onrender.com/)**  
    A dynamic platform where users can generate or upload images and share them with others, built with innovative AI tools and seamless web tech.
-
    **Tech Stack**: HTML, CSS, JavaScript, EJS, GSAP, MongoDB, Express.js, Node.js.  
 
-3. **[form3js](https://form3js.vercel.app/)**  
+2. **[form3js](https://form3js.vercel.app/)**  
    A creative platform using Three.js to craft and share immersive 3D visualizations with captivating water distortion effects on images, blending artistry and interactivity.
+   **Tech Stack**: HTML, CSS, JavaScript, Three.js, GSAP, Lenis  
 
-   **Tech Stack**: HTML, CSS, JavaScript, Three.js, GSAP  
+3. **[BlobMixture](https://blobmixer-three.vercel.app/)**  
+   An interactive 3D tool that lets you manipulate blob geometry and materials in real time, bringing a whole new dimension to creative control.
+   **Tech Stack**: HTML, CSS, JavaScript, GSAP, Three.js, Custom-Shader-Material  
 
-5. **[Miranda](#)**  
-   A dynamic and engaging landing page showcasing interactive elements and smooth animations.  
-   **Tech Stack**: HTML, CSS, JavaScript, Locomotive.js, GSAP  
-
-6. **[Quote Canvas](#)**  
-   A dynamic platform to create, edit, and share quotes.  
-   **Tech Stack**: HTML, CSS, JavaScript, EJS, Node.js, Express.js   
-
-7. **[Twitter Clone](#)**  
-   A Twitter-inspired platform with CRUD operations for tweets.  
-   **Tech Stack**: HTML, CSS, JavaScript, EJS, Node.js, Express.js, MongoDB  
 
 ---
 
